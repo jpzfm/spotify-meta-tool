@@ -2,6 +2,7 @@
 ---
 Python 3 script that pulls a song's metadata from Spotify using a track URI or URL as input and outputs a script filter-compatible JSON for [Alfred](https://www.alfredapp.com/). 
 
+![Spotify Meta Tool](alfred_screenshot.png)
 
 
 ### Requirements
