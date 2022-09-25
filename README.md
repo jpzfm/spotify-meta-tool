@@ -30,7 +30,7 @@ Create a `creds.json` file in the working directory of the script with your Spot
 Example shell script for "script" section of Alfred script filter object:
 
 ```zsh
-/usr/local/bin/python3 track_details.py $1
+/usr/local/bin/python3 spotify-meta-tool.py $1
 ```
 
 
